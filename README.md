@@ -29,7 +29,7 @@ $$
 r^2 - (ab)^2
 $$
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="get" host="https://example.com/v1/cakes/:id" path="" %}
 {% api-method-summary %}
 Test
 {% endapi-method-summary %}
